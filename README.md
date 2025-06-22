@@ -1,1 +1,1 @@
-# python-customtkinter-array-sort
+# GUI application for see array sort
